@@ -1,2 +1,3 @@
 # Black-Friday-Machine-Learning
-In the file  BlackFriday.ipynb an analysis of a dataset that presents the amount of money that people spent on BlackFriday, based on different categories like age, gender, marital status, etc was made. With the help of machine learning algorithms, a regression analysis was implemented in order to predict the amount of money that people will spend based on such categories. For this, was used Python as programming language and Jupyter Notebook as editor
+
+In the file  BlackFriday.ipynb a series of machine learning algorithms were implemented, in order to predict the amount of money that people will spend on Black Friday.  For this, was used Python as programming language and Jupyter Notebook as editor
